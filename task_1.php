@@ -20,7 +20,7 @@
 <head>
         <meta charset="utf-8">
         <title>
-            Подготовительные задания к курсу
+            Подготовительные задания к курсу!
         </title>
         <meta name="description" content="Chartist.html">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,7 +30,7 @@
         <link id="myskin" rel="stylesheet" media="screen, print" href="css/skins/skin-master.css">
         <link rel="stylesheet" media="screen, print" href="css/statistics/chartist/chartist.css">
         <link rel="stylesheet" media="screen, print" href="css/miscellaneous/lightgallery/lightgallery.bundle.css">
-        <link rel="stylesheet" media="screen, print" href="css/fa-solid.css">
+        <link rel="stylesheet" media="screen, prirtnt" href="css/fa-solid.css">
         <link rel="stylesheet" media="screen, print" href="css/fa-brands.css">
         <link rel="stylesheet" media="screen, print" href="css/fa-regular.css">
     </head>
