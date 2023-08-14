@@ -1,3 +1,34 @@
+<?php
+$array =
+[
+    [
+        "href" => "img/demo/gallery/21.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/21.jpg"
+    ],
+    [
+        "href" => "img/demo/gallery/22.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/22.jpg"
+    ],
+    [
+        "href" => "img/demo/gallery/23.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/23.jpg"
+    ],
+    [
+        "href" => "img/demo/gallery/24.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/24.jpg"
+    ],
+    [
+        "href" => "img/demo/gallery/25.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/25.jpg"
+    ],
+    [
+        "href" => "img/demo/gallery/26.jpg",
+        "imageSrc" => "img/demo/gallery/thumb/26.jpg"
+    ]
+]
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,24 +68,11 @@
                                 <p>Сформируйте массив данных и выведите полностью альбом.</p>
                             </div> -->
                             <div id="js-lightgallery">
-                                <a class="" href="img/demo/gallery/21.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/21.jpg" alt="image">
+                                <?php foreach($array as $item): ?>
+                                <a class="" href="<?php echo $item["href"] ?>">
+                                    <img class="img-responsive" src="<?php echo $item["imageSrc"] ?>" alt="image">
                                 </a>
-                                <a class="" href="img/demo/gallery/22.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/22.jpg" alt="image">
-                                </a>
-                                <a class="" href="img/demo/gallery/23.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/23.jpg" alt="image">
-                                </a>
-                                <a class="" href="img/demo/gallery/24.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/24.jpg" alt="image">
-                                </a>
-                                <a class="" href="img/demo/gallery/25.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/25.jpg" alt="image">
-                                </a>
-                                <a class="" href="img/demo/gallery/26.jpg">
-                                    <img class="img-responsive" src="img/demo/gallery/thumb/26.jpg" alt="image">
-                                </a>
+                                <?php endforeach;?>
                             </div>
                         </div>
                     </div>
