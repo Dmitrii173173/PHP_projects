@@ -5,3 +5,6 @@
 ![image](https://github.com/Dmitrii173173/task/assets/70065740/4d0a1f3e-af07-4cc7-9964-624e4b8a06a0)
 
 # task3
+![image](https://github.com/Dmitrii173173/task/assets/70065740/9853e98d-5857-42ff-bacd-fa5267294c62)
+
+# task4
