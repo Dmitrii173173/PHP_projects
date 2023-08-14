@@ -8,3 +8,7 @@
 ![image](https://github.com/Dmitrii173173/task/assets/70065740/9853e98d-5857-42ff-bacd-fa5267294c62)
 
 # task4
+![image](https://github.com/Dmitrii173173/task/assets/70065740/561477dd-45bb-45fa-8d52-91a0cfac63f5)
+
+# task5
+
