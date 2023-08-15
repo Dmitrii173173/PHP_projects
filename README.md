@@ -14,5 +14,9 @@
 ![image](https://github.com/Dmitrii173173/task/assets/70065740/9632f013-88c6-4f74-8b03-d0f54c0d0638)
 
 # task6
+![image](https://github.com/Dmitrii173173/task/assets/70065740/1aa55dd5-af84-4203-a18d-b9fce403b8bc)
+
+# task7
+
 
 
