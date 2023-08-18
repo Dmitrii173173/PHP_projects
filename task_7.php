@@ -3,7 +3,7 @@
 <head>
         <meta charset="utf-8">
         <title>
-            Подготовительные задания к курсу
+            Подготовительные задания к курсу!
         </title>
         <meta name="description" content="Chartist.html">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
