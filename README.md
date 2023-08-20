@@ -20,6 +20,10 @@
 ![image](https://github.com/Dmitrii173173/task/assets/70065740/c339dcb0-3788-4474-b7b9-be0c479db31c)
 
 # task8
+![image](https://github.com/Dmitrii173173/task/assets/70065740/5bf921c0-2919-485a-a1e6-e647118b5fb6)
+
+# task9
+
 
 
 
