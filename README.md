@@ -23,6 +23,12 @@
 ![image](https://github.com/Dmitrii173173/task/assets/70065740/5bf921c0-2919-485a-a1e6-e647118b5fb6)
 
 # task9
+![image](https://github.com/Dmitrii173173/task/assets/70065740/09508b61-87c1-4544-b67f-8f08fb9607be)
+
+# task10
+![image](https://github.com/Dmitrii173173/task/assets/70065740/d7052c86-3f65-41ab-bbb3-533137d75027)
+
+# task11
 
 
 
