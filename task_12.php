@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,19 +37,20 @@
                 <div class="panel-content">
                     <div class="panel-content">
                         <div class="form-group">
-                                <div class="alert alert-danger fade show" role="alert">
-                                   Этот эл адрес уже занят другим пользователем
-                                </div>
-
-                            <form action="task_11_handler.php" method="post">
+                                 <?php if(isset($_SESSION['error'])):?>
+                                        <div class="alert alert-info">
+                                            Этот эл адрес уже занят другим пользователем
+                                        </div>
+                                    <?php unset($_SESSION['error']); ?>
+                                 <?php endif;?>
+                            <form action="/task/save_12.php" method="post">
                                 <div class="form-group">
                                     <label class="form-label" for="simpleinput">Email</label>
-                                    <input type="text" name="email" id="simpleinput" class="form-control">
+                                    <input type="email" name="email" id="simpleinput" class="form-control">
                                 </div>
-
                                 <label class="form-label" for="simpleinput">Password</label>
                                 <input type="password" name="password" id="simpleinput" class="form-control">
-                                <button class="btn btn-success mt-3">Submit</button>
+                                <button class="btn btn-success mt-3" type="submit">Submit</button>
                             </form>
                         </div>
                     </div>
